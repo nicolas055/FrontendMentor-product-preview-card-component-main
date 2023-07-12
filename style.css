@@ -107,6 +107,9 @@ select {
   }
 }
 
+button {
+    border: 0;
+}
 body {
     font-family: var(--fm-montserrat);
     max-height: 100vh;
