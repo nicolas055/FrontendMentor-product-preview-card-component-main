@@ -53,8 +53,8 @@ I aim to improve my mobile-first and accessibility skills.
 
 ### Useful resources
 
-- [cssreference](https://cssreference.io/) - It examples the css properties with good and direct examples.
-- [W3schools](https://www.w3schools.com/) - Explain a lot of concepts about a lot of markup and programming languages.
+- [cssreference](https://cssreference.io/) - It explains the css properties with good and direct examples.
+- [W3schools](https://www.w3schools.com/) - Explain a lot of concepts about markup and programming languages.
 
 ## Author
 
